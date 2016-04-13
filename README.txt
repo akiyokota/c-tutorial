@@ -1,46 +1,82 @@
+app1
+- var
+- output
+- how to debug in visual studio code
+
+app2
+- functions basic
+
+app3
+- variable types
+- escape sequence
+- common operators
+
+app4
+- nullable datatype
+- data conversion
+
+app5
+- arrays
+- if
+- switch
+- goto 
+
+app6
+- while
+- for loop
+- for each loop
+
+app7
+- reference parameter (parameter value gets changed
+- multiple return types parameter in a function
+- array type parameter
+
+app8
+- namespace
+
 app9
-class
-static instances
-inheritence
-polymorphism
-override
-overloading
+- class
+- static instances
+- inheritence
+- polymorphism
+- override
+- overloading
 
 app10
-properties (basically getter & setter)
-another way of doing getter and setter in C#
+- properties (basically getter & setter)
+- another way of doing getter and setter in C#
 
 app11
-structs
+- structs
 
 app12
-interface
+- interface
 
 app13
-abstract class
+- abstract class
 
 app14
-delegates
+- delegates
 
 app15
-multicast delegates
+- multicast delegates
 
 app16
-exception
+- exception
 
 app17
-enums
+- enums
 
 app18
-attribute : obsolete
+- attribute : obsolete
 
 app19
-reflection
+- reflection
 
 app20
-Generics
-Overwriting “ToString” Method
-Overwriting “equals” method
- 
+- Generics
+- Overwriting “ToString” Method
+- Overwriting “equals” method
+  
 app21
-partial classes
+- partial classes
